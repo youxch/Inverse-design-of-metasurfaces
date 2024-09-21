@@ -10,5 +10,6 @@ We have design a GUI video that demonstrates the **Fast Design of Multi-Beam Met
 Additionally, we have another video that demonstrates the **inverse design of unit cells**. You can watch it [here](https://www.bilibili.com/video/BV1Bx4y1D7LF/?spm_id_from=333.999.0.0&vd_source=07c2e4f919ec533eb2ddf652d4ab4c9b).
 <img src="app.jpg" alt="Designer APP" style="width:500px;height:300px;">
 
-The architecture of the network is shown in the figure below
+The architecture of the network is shown in the figure below.
+
 <img src="network.jpg" alt="VEA network" style="width:500px;height:300px;">
