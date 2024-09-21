@@ -13,3 +13,5 @@ Additionally, we have another video that demonstrates the **inverse design of un
 The architecture of the network is shown in the figure below.
 
 <img src="network.jpg" alt="VEA network" style="width:500px;height:300px;">
+
+**More environment configurations and related code execution methods will be continuously updated within a week.**
