@@ -14,6 +14,15 @@ The architecture of the network is shown in the figure below. As can be seen, bo
 
 <img src="network.jpg" alt="VEA network" style="width:500px;height:300px;">
 
-## Update - September 30, 2024
+# Dataset and Code Update - September 30, 2024
+
+I have uploaded a dataset that comprises 300 samples. The dataset includes the following files:
+
+- `x_train.npy`
+- `y_train.npy`
+- `freq_train.npy`
+- `S11_train.npy`
+
+Furthermore, the updated code, `VAE_CNN_300_sample.py`, has been successfully tested and executed on several computers, ensuring its compatibility and reliability across different platforms.
 
 
