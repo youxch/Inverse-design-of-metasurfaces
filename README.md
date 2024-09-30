@@ -25,4 +25,14 @@ I have uploaded a dataset that comprises 300 samples. The dataset includes the f
 
 Furthermore, the updated code, `VAE_CNN_300_sample.py`, has been successfully tested and executed on several computers, ensuring its compatibility and reliability across different platforms.
 
+## Declaration:
+
+Due to the need to use the complete dataset and the best-trained network model in the author's subsequent work, only 300 sample data and the code that has not been fully trained are provided here for learning, research, and exchange purposes. Please adhere to the following principles:
+
+1. The code and data are strictly prohibited from being used for commercial purposes.
+2. The code and data must not be copied, disseminated, or distributed without authorization.
+3. When using the code and data, please respect intellectual property rights and indicate the source.
+4. If there are research findings, please share them with the author to promote academic exchange and technological progress.
+
+Thank you for your understanding and support. If you have any questions, please feel free to contact the author for discussion.
 
