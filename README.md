@@ -48,8 +48,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 If you use the code provided in this repository, please cite the following papers:
 
 [1] X. C. You and F. H. Lin, “Inverse Design of Reflective Metasurface Antennas Using Deep Learning from Small-Scale Statistically Random Pico-Cells,” MICROW OPT TECHN LET., vol. 66, no. 2, pp.34068, Feb. 2024.
+
 [2] X. C. You and F. H. Lin, “Energy Efficient Design of Low-Profile Wideband Microstrip Patch Antennas Using Deep Learning,” 2023 Int. Conf on Microw. Millim. Wave Tech, Qingdao, China, 2023, pp. 1-3.
+
 [3] X. C. You and F. H. Lin, “Fast Design of Multi-Beam Metasurface Antennas Using Generative Machine Learning,” 2024 IEEE Asia-Pacific Conference on Antennas and Propagation (APCAP), Nanjing, China, 2024, accepted.
+
 [4] X. C. You, C. T. Gao and F. H. Lin, “Significant Bandwidth Enahcnement of Low-Reflection Checkerboard Metasurfaces Using Machine Learning,” The 14th International Symposium on Antennas, Propagation and EM Theory (ISAPE), Hefei, China, 2024, accepted.
 
 
