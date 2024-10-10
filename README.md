@@ -14,6 +14,9 @@ The architecture of the network is shown in the figure below. As can be seen, bo
 
 <img src="network.jpg" alt="VEA network" style="width:500px;height:300px;">
 
+## Star ⭐⭐⭐
+If you think this repository is helpful, please give us a STAR. Thank you very much!
+
 # Dataset and Code Update - September 30, 2024
 
 I have uploaded a dataset that comprises 300 samples. The dataset includes the following files:
