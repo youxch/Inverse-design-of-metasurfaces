@@ -13,10 +13,8 @@ Additionally, we have another video that demonstrates the **Inverse Design of Un
 The architecture of the network is shown in the figure below. As can be seen, both high-dimensional sequences and reflection phases are mapping to a same low dimensional space and then reconstruct.
 
 <img src="network.jpg" alt="VEA network" style="width:500px;height:300px;">
+<img src="single-beam reflective metasurface.jpg" alt="single-beam reflective metasurface" style="width:600px;height:300px;">
 
-<img src="single-beam reflective metasurface.jpg" alt="single-beam reflective metasurface" style="width:500px;height:300px;">
-
-<img src="Multi-beam reflective metasurface.jpg" alt="Multi-beam reflective metasurface" style="width:500px;height:300px;">
 
 ## Star ⭐⭐⭐
 If you think this repository is helpful, please give us a STAR. Thank you very much!
