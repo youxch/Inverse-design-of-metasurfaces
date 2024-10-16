@@ -14,9 +14,9 @@ The architecture of the network is shown in the figure below. As can be seen, bo
 
 <img src="network.jpg" alt="VEA network" style="width:500px;height:300px;">
 
-<img src="network.jpg" alt="single-beam reflective metasurface" style="width:500px;height:300px;">
+<img src="single-beam reflective metasurface.jpg" alt="single-beam reflective metasurface" style="width:500px;height:300px;">
 
-<img src="network.jpg" alt="Multi-beam reflective metasurface" style="width:500px;height:300px;">
+<img src="Multi-beam reflective metasurface.jpg" alt="Multi-beam reflective metasurface" style="width:500px;height:300px;">
 
 ## Star ⭐⭐⭐
 If you think this repository is helpful, please give us a STAR. Thank you very much!
